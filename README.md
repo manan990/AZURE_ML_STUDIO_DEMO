@@ -39,6 +39,6 @@
 **Output Preview:**
 [Azure ML Studio Link](https://gallery.azure.ai/Experiment/AUTOMOBILE-PRICE-SETTING)<br/>
 **Procedure:**<br/>
-![Procedure]( "Procedure")<br/>
+![Procedure](https://github.com/manan990/AZURE_ML_STUDIO_DEMO/blob/main/images/MODEL.png "MODEL")<br/>
 **Model Evaluation Results:**<br/>
-![Procedure]( "Procedure")<br/>
+![Procedure](https://github.com/manan990/AZURE_ML_STUDIO_DEMO/blob/main/images/OUTPUT.png "OUTPUT")<br/>
