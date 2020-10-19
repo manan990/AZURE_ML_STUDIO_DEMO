@@ -3,13 +3,13 @@
 **Aim:** ML model which predicts the price of an automobile based on various factors and components of a car<br/>
 **MODEL 1:** <br/>
 **Attributes:**
-•	make 
-•	body-style 
-•	wheel-base 
-•	engine-size
-•	 horsepower 
-•	peak-rpm 
-•	highway-mpg 
+-	make 
+-	body-style 
+-	wheel-base 
+-	engine-size
+-	 horsepower 
+-	peak-rpm 
+-	highway-mpg 
 <br/>
 
 **Labels:** Price<br/>
@@ -18,15 +18,15 @@
 
 **MODEL 2:** <br/>
 **Attributes:**
-•	length
-•	curb-weight 
-•	engine-size 
-•	compression-ratio 
-•	horsepower 
-•	city-mpg 
-•	highway-mpg
-•	make 
-•	engine-type
+- length
+-	curb-weight 
+-	engine-size 
+-	compression-ratio 
+-	horsepower 
+-	city-mpg 
+-	highway-mpg
+-	make 
+-	engine-type
 <br/>
 
 **Labels:** Price<br/>
